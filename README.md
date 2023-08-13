@@ -23,4 +23,13 @@ Repository ini berisi tentang belajar ku di Dicoding
 * Pengenalan Dasar Computational Thinking -> Mengetahui cara penyelesaian masalah menggunakan metode computational thinking meliputi, dekomposisi, pengenalan pola, abstraksi, penulisan algoritma, dan evaluasi.
 * Penutup -> Rangkuman dan Ujian Akhir
 
+**13 Agustus 2023** - Belajar Dasar Git dengan GitHub (100%)
+* Git dan GitHub -> Mengerti apa itu Git dan GitHub serta manfaatnya dalam mengelola data atau kode.
+* Dasar Git -> Dasar Git
+* Studi Kasus Pengalaman Belajar -> Meningkatkan pengalaman belajar mengenai dasar-dasar Git melalui sebuah studi kasus.
+* Git Branches -> Mengerti konsep branching di dalam Git, akan mempelajari juga merging dan menyelesaikan conflict.
+* Kolaborasi dengan Tim -> Mengerti bagaimana cara berkolaborasi dengan tim lain pada repository yang sama seperti melakukan forking, squashing changes, dan code reviews.
+* Studi Kasus Kolaborasi dengan Tim -> Meningkatkan pengetahuan dalam berkolaborasi dengan tim seperti membuat repository baru, menyalin repository, dan studi kasus menangani pull request pada sebuah repository aktif di GitHub.
+* GitHub sebagai Portofolio -> Mengerti penggunaan GitHub sebagai portofolio dengan latihan membuat readme yang dapat dimanfaatkan sebagai portofolio dalam berkarier. 
+
 
